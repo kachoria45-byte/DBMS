@@ -13,7 +13,7 @@
 INSERT INTO Department VALUES (1, 'Computer Science Engineering', 'CR-01');
 INSERT INTO Department VALUES (6, 'Civil Engineering', 'CR-02');
 INSERT INTO Department VALUES (7, 'Computer Science and Engineering (AI and ML)', 'CR-04');
-INSERT INTO Department VALUES (8, 'Civil Engineering with Computer Application', 'CR-05');
+INSERT INTO Department VALUES (8, 'Civil Engineering with Computer', 'CR-05');
 INSERT INTO Department VALUES (9, 'Electrical and Electronics Engineering', 'CR-03');
 
 
@@ -109,3 +109,4 @@ SELECT * FROM Student;
 SELECT * FROM Enrollment;
 
 COMMIT;
+
